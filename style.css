@@ -4,3 +4,11 @@ h1 {
   margin: 10px;
   padding: 40px;
 }
+
+p {
+  color: blue;
+}
+
+h2 {
+  color: pink;
+}
